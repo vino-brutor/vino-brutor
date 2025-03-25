@@ -4,11 +4,9 @@
 <p>I'm a <b>Biomedical informatics</b> student</p>
 <p>I work with tons of technologies wich i'm allways <b>working on getting better at</b></p>
 <img src="https://tenor.com/pt-BR/view/snorlax-waving-hello-greetings-goodbye-gif-24111545">
-<div class="tenor-gif-embed" data-postid="24111545" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/snorlax-waving-hello-greetings-goodbye-gif-24111545">Snorlax Waving GIF</a>from <a href="https://tenor.com/search/snorlax-gifs">Snorlax GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <hr>
 ### 📊 TOP programming languages
-[![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vino-brutor&theme=tokyonight)](https://github.com/vino-brutor)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
