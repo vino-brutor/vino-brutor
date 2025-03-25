@@ -1,8 +1,12 @@
 <img src="https://github.com/vino-brutor/vino-brutor/blob/main/Vino-Brutor (2).png" width="100%">
 
 <h1>//What's up! I'm Vitor Bruno! (Como tá? me chamo Vítor Bruno) 🙌</h1>
-<p>📕 - I'm a <b>Biomedical informatics</b> student</p>
+<p>📕 - I'm a <b>Biomedical informatics</b> student at <b>UFCSPA</b></p>
 <p>🧠 - I work with tons of technologies wich i'm allways <b>working on getting better at</b></p>
+<p>⏰ - Studying programming since i was <b>16</b></p>
+<p>🎶 - Music and gaming apreciator (besides programming)</p>
+<p>🍎 - Currently working at Apple Developer Academy</p>
+<p></p>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUybjV1aWVhN29sOWRyZ3p1MHVnODZuMHAzcHVkYTF0ZXNoOXdlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif">
 <hr>
 <h1>📊 - TOP programming languages</h1>
