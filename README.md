@@ -3,7 +3,7 @@
 <h1>//What's up! I'm Vitor Bruno! (Como tá? me chamo Vítor Bruno) 🙌</h1>
 <p>I'm a <b>Biomedical informatics</b> student</p>
 <p>I work with tons of technologies wich i'm allways <b>working on getting better at</b></p>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F4cHk5dG4xYXFteDhzODNleHA0aXZ5Z3Q2OXo1eGFpZG5vMzg4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PT344WimtVmDeD30Re/giphy.gif">
+<img src="https://tenor.com/bNkF3.gif">
 <hr>
 ### 📊 TOP programming languages
 [![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vino-brutor&theme=tokyonight)](https://github.com/vino-brutor)
