@@ -1,4 +1,4 @@
-<img src="https://github.com/seu-usuario/vino-brutor/blob/main/Vino-brutor.png" width="100%">
+<img src="https://github.com/vino-brutor/vino-brutor/blob/main/Vino-Brutor.png" width="100%">
 
 <h1>What's up! (Como tá?) 🙌</h1>
 
