@@ -2,6 +2,7 @@
 
 <h1>//What's up! I'm Vitor Bruno! (Como tá? me chamo Vítor Bruno) 🙌</h1>
 <p>I'm a Biomedical informatics student and i work with tons of technologies wich i'm allways working on getting better at</p>
+<iframe src="https://giphy.com/embed/PT344WimtVmDeD30Re" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-anime-hello-jigglypuff-PT344WimtVmDeD30Re">via GIPHY</a></p>
 <hr>
 ### 📊 TOP programming languages
 [![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vino-brutor&theme=tokyonight)](https://github.com/vino-brutor)
