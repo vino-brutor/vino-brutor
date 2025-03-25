@@ -6,7 +6,7 @@
 <img src="https://tenor.com/pt-BR/view/snorlax-waving-hello-greetings-goodbye-gif-24111545">
 <hr>
 ### 📊 TOP programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vino-brutor)](https://github.com/vino-brutor/github-readme-stats)
 
 
 
