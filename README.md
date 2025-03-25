@@ -1,6 +1,10 @@
 <img src="https://github.com/vino-brutor/vino-brutor/blob/main/Vino-Brutor.png" width="100%">
 
-<h1>What's up! (Como tá?) 🙌</h1>
+<h1>//What's up! I'm Vitor Bruno!(Como tá? me chamo Vítor Bruno) 🙌</h1>
+<p>I'm a Biomedical informatics student and i work with tons of technologies wich i'm allways working on getting better at</p>
+<hr>
+### 📊 TOP programming languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vino-brutor&layout=compact&theme=radical)
 
 
 <!--
