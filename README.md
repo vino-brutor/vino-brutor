@@ -5,7 +5,6 @@
     src="https://www.canva.com/design/DAGisxZevXo/J-9IpZMus5rZ5af9EzDsMg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGisxZevXo&#x2F;J-9IpZMus5rZ5af9EzDsMg&#x2F;view?utm_content=DAGisxZevXo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Vino-Brutor</a> de Vitor Bruno
 <h1>What's up! (Como tá?) 🙌</h1>
 
 
