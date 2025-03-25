@@ -1,4 +1,4 @@
-<img src="https://github.com/vino-brutor/vino-brutor/blob/main/Vino-Brutor.png" width="100%">
+<img src="https://github.com/vino-brutor/vino-brutor/blob/main/Vino-Brutor(1).png" width="100%">
 
 <h1>//What's up! I'm Vitor Bruno!(Como tá? me chamo Vítor Bruno) 🙌</h1>
 <p>I'm a Biomedical informatics student and i work with tons of technologies wich i'm allways working on getting better at</p>
