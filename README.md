@@ -6,7 +6,20 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUybjV1aWVhN29sOWRyZ3p1MHVnODZuMHAzcHVkYTF0ZXNoOXdlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif">
 <hr>
 ### 📊 TOP programming languages
-
+<hr>
+<h1>What i work with?</h1>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+</div>
 
 
 
