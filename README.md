@@ -4,7 +4,8 @@
 <p>I'm a Biomedical informatics student and i work with tons of technologies wich i'm allways working on getting better at</p>
 <hr>
 ### 📊 TOP programming languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vino-brutor&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vino-brutor&layout=compact&theme=radical)
+
 
 
 <!--
