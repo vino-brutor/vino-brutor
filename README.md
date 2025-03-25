@@ -1,12 +1,12 @@
 <img src="https://github.com/vino-brutor/vino-brutor/blob/main/Vino-Brutor (2).png" width="100%">
 
 <h1>//What's up! I'm Vitor Bruno! (Como tá? me chamo Vítor Bruno) 🙌</h1>
-<p>I'm a <b>Biomedical informatics</b> student</p>
-<p>I work with tons of technologies wich i'm allways <b>working on getting better at</b></p>
-<img src="https://tenor.com/pt-BR/view/snorlax-waving-hello-greetings-goodbye-gif-24111545">
+<p>📕 - I'm a <b>Biomedical informatics</b> student</p>
+<p>🧠 - I work with tons of technologies wich i'm allways <b>working on getting better at</b></p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUybjV1aWVhN29sOWRyZ3p1MHVnODZuMHAzcHVkYTF0ZXNoOXdlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif">
 <hr>
 ### 📊 TOP programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vino-brutor)](https://github.com/vino-brutor/github-readme-stats)
+
 
 
 
