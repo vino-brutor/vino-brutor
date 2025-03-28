@@ -10,7 +10,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUybjV1aWVhN29sOWRyZ3p1MHVnODZuMHAzcHVkYTF0ZXNoOXdlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif">
 <hr>
 <h1>📊 - TOP programming languages</h1>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vino-brutor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 <hr>
