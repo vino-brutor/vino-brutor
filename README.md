@@ -36,10 +36,8 @@
   <img width="12" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height = "10"/>        
   <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height = "10"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height = "10" />
-  <img width="12" />          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height = "5"/>
+  <img width="5" />        
   
 </div>
 <hr>
