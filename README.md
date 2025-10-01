@@ -16,7 +16,7 @@
 <hr>
 <h1>👨‍🎓 - What do i work with?</h1>
 <div align="left">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="10" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="10" alt="typescript logo"  />
   <img width="12" />
@@ -37,8 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height = "10"/>        
   <img width="12" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height = "5"/>
-  <img width="5" />         -->
-  <p>- Javascript</p>
+  <img width="5" />         
+  <!-- <p>- Javascript</p>
   <p>- TypeScript</p>
   <p>- NodeJS</p>
   <p>- React</p>
@@ -47,7 +47,7 @@
   <p>- CSS</p>
   <p>- SQL</p>
   <p>- MongoDB</p>
-  <p>- Java</p>
+  <p>- Java</p> -->
 </div>
 <hr>
 <h1>📞 - Wanna talk? Here are some ways</h1>
