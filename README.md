@@ -9,6 +9,8 @@
 <hr>
 <h1>👨‍🎓 - What do i work with?</h1>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height = "32"/>
+  <img width="32" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
@@ -27,10 +29,6 @@
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height = "32"/>
   <img width="32" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height = "32"/>        
-  <img width="32" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height = "32"/>
-  <img width="32" />         
   <!-- <p>- Javascript</p>
   <p>- TypeScript</p>
   <p>- NodeJS</p>
