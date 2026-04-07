@@ -1,6 +1,6 @@
 <img width="11520" height="3456" alt="Vino-Brutor" src="https://github.com/user-attachments/assets/6742d0f8-c92a-4ba1-b7c8-2469432cf256" />
 
-<h1>//What's up! I'm Vitor Bruno! (Como tá? me chamo Vítor Bruno) 🙌</h1>
+<h1>// What's up! I'm Vitor Bruno! 🙌</h1>
 <p>📕 - I'm a <b>Biomedical informatics</b> student at <b>UFCSPA</b></p>
 <p>🍎 - Currently working at Apple Developer Academy</p>
 <p>🎶 - Music and gaming apreciator (besides programming)</p>
