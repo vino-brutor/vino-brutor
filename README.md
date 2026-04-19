@@ -4,31 +4,30 @@
 <p>📕 - I'm a <b>Biomedical informatics</b> student at <b>UFCSPA</b></p>
 <p>🍎 - Currently working at Apple Developer Academy</p>
 <p>🎶 - Music and gaming apreciator (besides programming)</p>
-<p>📰 - Developed webSites for <b>André Guimarães Imóveis and QIP industries</b> (wich you can see on my repositories 🤭)</p>
+<span>📋 - You can check my portfolio <a href="https://portfolio-pink-chi-65.vercel.app/#hero">Here</a></span>
+<br></br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUybjV1aWVhN29sOWRyZ3p1MHVnODZuMHAzcHVkYTF0ZXNoOXdlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JGP4QOa1n8rcE1yHGQ/giphy.gif">
 <hr>
-<h1>👨‍🎓 - What do i work with?</h1>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height = "32"/>
-  <img width="32" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height = "32"/>
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height = "32"/>
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="32" alt="sql logo"/>
-  <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height = "32"/>
-  <img width="32" />        
+<h1>👨‍🎓 - What do I work with?</h1>
+<div align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="32" width="32" alt="swift logo"/>
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" alt="javascript logo"/>
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" width="32" alt="typescript logo"/>
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32" width="32" alt="nodejs logo"/>
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" alt="react logo"/>
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" width="32" alt="html5 logo"/>
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32" alt="css3 logo"/>
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="32" width="32" alt="sql logo"/>
+  <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" height="32"/>      
+  <img />
 </div>
 <hr>
 <h1>📞 - Wanna talk? Here are some ways</h1>
