@@ -28,6 +28,8 @@
   <img />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="32" height="32"/>      
   <img />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32"/>
+  <img /> 
 </div>
 <hr>
 <h1>📞 - Wanna talk? Here are some ways</h1>
