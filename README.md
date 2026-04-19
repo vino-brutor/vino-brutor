@@ -1,4 +1,4 @@
-<img width="11520" height="3456" alt="Vino-Brutor" src="https://github.com/user-attachments/assets/6742d0f8-c92a-4ba1-b7c8-2469432cf256" />
+<img width="11520" height="600" alt="Vino-Brutor" src="https://github.com/user-attachments/assets/6742d0f8-c92a-4ba1-b7c8-2469432cf256" />
 
 <h1>// What's up! I'm Vitor Bruno! 🙌</h1>
 <p>📕 - I'm a <b>Biomedical informatics</b> student at <b>UFCSPA</b></p>
@@ -29,16 +29,6 @@
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height = "32"/>
   <img width="32" />        
-  <!-- <p>- Javascript</p>
-  <p>- TypeScript</p>
-  <p>- NodeJS</p>
-  <p>- React</p>
-  <p>- Swift</p>
-  <p>- HTML5</p>
-  <p>- CSS</p>
-  <p>- SQL</p>
-  <p>- MongoDB</p>
-  <p>- Java</p> -->
 </div>
 <hr>
 <h1>📞 - Wanna talk? Here are some ways</h1>
