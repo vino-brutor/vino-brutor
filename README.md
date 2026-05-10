@@ -1,4 +1,4 @@
-<img width="11520" height="600" alt="Vino-Brutor" src="https://github.com/user-attachments/assets/6742d0f8-c92a-4ba1-b7c8-2469432cf256" />
+<img width="11520" height="3000" alt="Vino-Brutor" src="https://github.com/user-attachments/assets/6742d0f8-c92a-4ba1-b7c8-2469432cf256" />
 
 <h1>// What's up! I'm Vitor Bruno! 🙌</h1>
 <p>📕 - I'm a <b>Biomedical informatics</b> student at <b>UFCSPA</b></p>
